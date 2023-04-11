@@ -1,0 +1,11 @@
+*{
+    font-family: Ubuntu;
+}
+
+
+.content{
+    width: 70%;
+    margin-top: 0;
+    margin: 100px;
+    margin: 0 auto;
+}

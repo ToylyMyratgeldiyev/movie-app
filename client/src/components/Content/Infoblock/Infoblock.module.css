@@ -1,0 +1,32 @@
+.wrapper{
+    margin-top: 100px;
+    display: flex;
+    flex-flow:wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.info{
+    width: 600px;
+    height: 160px;
+    border: 1px solid rgba(255, 255, 255, .5);
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+
+
+.info img{
+    width: 30px;
+    margin: 30px;
+
+}
+
+.info span{
+    color: white;
+    font-size: 21px;
+}
+

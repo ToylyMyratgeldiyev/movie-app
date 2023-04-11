@@ -1,0 +1,69 @@
+* {
+  font-family: Ubuntu;
+  color: white;
+}
+
+.product {
+  width: 70%;
+  margin: 100px;
+  margin: 0 auto;
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 50px;
+}
+
+.poster {
+  flex-basis: 40%;
+}
+
+.poster img {
+  border-radius: 25px;
+  min-width: 437px;
+  margin-bottom: 40px;
+}
+
+
+.videoPleer{
+    border-radius: 30px;
+}
+
+
+.title {
+  flex-basis: 55%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.avtors {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.description {
+  /* flex-basis: 50%; */
+  margin-top: 70px;
+  line-height: 2;
+  font-size: 17px;
+}
+
+.avtors span,
+.description {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.about {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+/* .x{
+    flex-basis: 50%;
+} */
+
+.y {
+  flex-basis: 60%;
+}

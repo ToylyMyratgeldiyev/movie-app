@@ -1,0 +1,17 @@
+.partners{
+    height: 365px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.wrapper{
+    /* display: flex; */
+    justify-content: space-evenly;
+}
+
+
+.item_logo{
+    height: 50px;
+    margin: 50px;
+}

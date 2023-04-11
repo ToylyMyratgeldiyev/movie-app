@@ -1,0 +1,40 @@
+.swiper {
+  margin: 20px;
+}
+
+h5 {
+  margin: 0;
+  font-size: 16px;
+  color: wheat;
+}
+
+.title_content {
+  margin-top: 5px;
+}
+
+.head_content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button_show_all {
+  width: 150px;
+  height: 40px;
+  border: 1px solid white;
+  font-weight: 700;
+  border-radius: 50px;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  font-size: 16px;
+}
+
+.button_show_all:hover {
+  border: white;
+  background-color: #ec8f32;
+  color: black;
+}
+
+.container_swiper{
+  margin-bottom: 100px;
+}

@@ -1,0 +1,23 @@
+.compilation {
+  display: flex;
+  justify-content: space-around;
+}
+
+.picCart {
+  position: relative;
+}
+
+.picCart img {
+  border-radius: 20px;
+}
+
+.compilation_h3 {
+  color: white;
+  position: absolute;
+  bottom: 40px;
+  left: 10px;
+}
+
+h2 {
+  color: white;
+}
